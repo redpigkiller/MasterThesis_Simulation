@@ -134,7 +134,7 @@ ASSIGNMENTSUBOPTIMAL2    Compute suboptimal assignment
 #endif
 
 #if !defined(ABS)
-#define ABS(A) ((A > 0) ? (A) : 0)
+#define ABS(A) ((A > 0) ? (A) : -(A))
 #endif
 
 /* assignmentoptimal */
