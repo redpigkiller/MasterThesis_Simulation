@@ -1,6 +1,7 @@
-# Update
+# MasterThesis_Simulation
 
-The arrpair.m is updated. Its compiled file (for windows) does not updated.
+## update
+The arrpair.c is updated. However, its compiled file (for windows) does not updated.
 Use
 ```
 mex arrpair.c
